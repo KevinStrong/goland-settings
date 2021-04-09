@@ -1,0 +1,19 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="ProjectViewState">
+        <option name="compactDirectories" value="true" />
+        <option name="hideEmptyMiddlePackages" value="true" />
+        <option name="showLibraryContents" value="true" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="configurable.GoLibrariesConfigurable.is.expanded" value="true" />
+        <property name="go.import.settings.migrated" value="true" />
+        <property name="settings.editor.selected.configurable" value="go.dep" />
+      </component>
+      <component name="VgoProject">
+        <integration-enabled>true</integration-enabled>
+      </component>
+    </defaultProject>
+  </component>
+</application>
