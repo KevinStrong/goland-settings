@@ -1,9 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.yaml" />
+    <option name="customScope" value="Directory '.../pkg/event'" />
+    <option name="defaultScopeName" value="Directory '.../pkg/event'" />
+    <option name="SEARCH_SCOPE" value="Directory '.../pkg/event'" />
     <mask>*.go</mask>
     <mask>*.yaml</mask>
   </component>
