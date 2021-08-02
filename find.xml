@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '.../pkg/event'" />
-    <option name="defaultScopeName" value="Directory '.../pkg/event'" />
-    <option name="SEARCH_SCOPE" value="Directory '.../pkg/event'" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.go</mask>
     <mask>*.yaml</mask>
   </component>
