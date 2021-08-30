@@ -6,6 +6,7 @@
         <option value="file://$USER_HOME$/go/go1.16.5" />
         <option value="file://$USER_HOME$/sdk/go1.15.5" />
         <option value="file://$USER_HOME$/sdk/go1.16.5" />
+        <option value="file://$USER_HOME$/sdk/go1.17" />
         <option value="file:///usr/local/Cellar/go/1.15.5/libexec" />
         <option value="file:///usr/local/Cellar/go/1.16.5/libexec" />
         <option value="file:///usr/local/Cellar/go/1.16.6/libexec" />
