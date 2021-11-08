@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="liquibase" type="AUTO_DETECTED" />
       <mapping pattern="event" type="AUTO_DETECTED" />
+      <mapping pattern="events_and_kiosks" type="AUTO_DETECTED" />
       <mapping pattern="README" type="AUTO_DETECTED" />
       <mapping pattern=".env.dist" type="PLAIN_TEXT" />
       <mapping pattern=".env" type="PLAIN_TEXT" />
