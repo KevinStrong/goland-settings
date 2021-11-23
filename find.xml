@@ -8,7 +8,7 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.go2</mask>
-    <mask>*.yaml</mask>
     <mask>*.go</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
